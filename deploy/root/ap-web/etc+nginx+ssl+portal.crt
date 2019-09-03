@@ -1,0 +1,69 @@
+Bag Attributes
+    localKeyID: 01 00 00 00 
+    friendlyName: *.tokiomarine-life.co.id
+subject=/C=ID/ST=Jakarta/L=Jakarta/O=PT. TOKIO MARINE LIFE INSURANCE INDONESIA/OU=IT Planning Dept./CN=*.tokiomarine-life.co.id
+issuer=/C=US/O=GeoTrust Inc./CN=GeoTrust SSL CA - G3
+-----BEGIN CERTIFICATE-----
+MIIGtzCCBZ+gAwIBAgIQMqWLJGd+WT7ZwPkYnn1f2TANBgkqhkiG9w0BAQsFADBE
+MQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEdMBsGA1UEAxMU
+R2VvVHJ1c3QgU1NMIENBIC0gRzMwHhcNMTYxMTEwMDAwMDAwWhcNMTgwNDIyMjM1
+OTU5WjCBpDELMAkGA1UEBhMCSUQxEDAOBgNVBAgMB0pha2FydGExEDAOBgNVBAcM
+B0pha2FydGExMjAwBgNVBAoMKVBULiBUT0tJTyBNQVJJTkUgTElGRSBJTlNVUkFO
+Q0UgSU5ET05FU0lBMRowGAYDVQQLDBFJVCBQbGFubmluZyBEZXB0LjEhMB8GA1UE
+AwwYKi50b2tpb21hcmluZS1saWZlLmNvLmlkMIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEAvMwLOnZUsPy/jUd3PvRU6XKkmkHSy81zjVR/7l35IpSSssEE
+eE4g3xyQGN5QdsuJvezJ9swGEohmf1iwEonN1zQye5vFflSXi2Za8DgTXgfOLbY7
+Sx1DAPsOOsMA3vgiUf/5290JwChQ+V1evLfX3ml/ismbIA0sWHfrmyecoVsjPpSj
+IXUyTcjIoZWaFhJCTCcEIGRovQF0geurcV0W/W1LvX3QZ4enPkn+NpAGETzV6qhW
+n3fURyb5cdk1YUl9qajufLAqa1hI6fr+JBgw0HQPIA2hBL0x5IL1awO3b7lNguhh
+HEkLAhTdb2jhic844vLXvQM3FxkSf3aFOfU3cQIDAQABo4IDQjCCAz4wOwYDVR0R
+BDQwMoIYKi50b2tpb21hcmluZS1saWZlLmNvLmlkghZ0b2tpb21hcmluZS1saWZl
+LmNvLmlkMAkGA1UdEwQCMAAwDgYDVR0PAQH/BAQDAgWgMCsGA1UdHwQkMCIwIKAe
+oByGGmh0dHA6Ly9nbi5zeW1jYi5jb20vZ24uY3JsMIGdBgNVHSAEgZUwgZIwgY8G
+BmeBDAECAjCBhDA/BggrBgEFBQcCARYzaHR0cHM6Ly93d3cuZ2VvdHJ1c3QuY29t
+L3Jlc291cmNlcy9yZXBvc2l0b3J5L2xlZ2FsMEEGCCsGAQUFBwICMDUMM2h0dHBz
+Oi8vd3d3Lmdlb3RydXN0LmNvbS9yZXNvdXJjZXMvcmVwb3NpdG9yeS9sZWdhbDAd
+BgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwHwYDVR0jBBgwFoAU0m/3lvSF
+P3I8MH0j2oV4m6N8WnwwVwYIKwYBBQUHAQEESzBJMB8GCCsGAQUFBzABhhNodHRw
+Oi8vZ24uc3ltY2QuY29tMCYGCCsGAQUFBzAChhpodHRwOi8vZ24uc3ltY2IuY29t
+L2duLmNydDCCAXwGCisGAQQB1nkCBAIEggFsBIIBaAFmAHUA3esdK3oNT6Ygi4Gt
+gWhwfi6OnQHVXIiNPRHEzbbsvswAAAFYTW377QAABAMARjBEAiBK85aCSgXsGzE8
+WfV8Uzb0nCysEIT9GOQGNkRh/gkJOQIgNFCMGcVadCLow0ZQxrrZShpq14GTcuM+
+l6K4g/ZJCsMAdQBo9pj4H2SCvjqM7rkoHUz8cVFdZ5PURNEKZ6y7T0/7xAAAAVhN
+bfwQAAAEAwBGMEQCICFCFDCdHazV3s5PLUGpsqt2WAOrk5Zik1HUN8XeE3Q1AiBB
+cjnzSO7Xih3NIV5H05c9Ie1xt/8j8IfyaGruvcAHXQB2AO5Lvbd1zmC64UJpH6vh
+nmajD35fsHLYgwDEe4l6qP3LAAABWE1t/ewAAAQDAEcwRQIgJ+9kiZ8IWzegBI+X
+VmQkDiMoYTOuulkLYGmvY54nQEUCIQCHdgowpG5Ak2r5A5IkgjOzatZgPa+AdTI4
+8JmLrLTKPTANBgkqhkiG9w0BAQsFAAOCAQEAdkjO62s2hirqE5ZuOiLktOd3h5jU
+v3sqAT8U6UsnVs9zmyo/YnMmOp7Gu3ukw/3FpNq24wJw3B5TEazY+Uu63RvQUzGw
+gDtiMusDjVrF5fXdOirfj1Kgvsu1bfcAa7tCsiGKfscqRla86Ub6IlqixPrtVF7P
+oWRCBpbNTai24Ojd2HpWAycZYobpBIhW8qfhG5T0qJ6EXsdwJS0ODmG2GirmEy4M
+mHIpMdKTklDqPBCX4O3tDrq5Wk9CLGwPRVA2bxFC0kfUoHFY75hNDb74KZczUj5r
+RM8rB9/kPFkbFbf59J8xMgn/tZFf5wd0ZkcCSrAaD5L2e/hdQiClTXfs3Q==
+-----END CERTIFICATE-----
+-----BEGIN CERTIFICATE-----                                                                                                    
+MIIETzCCAzegAwIBAgIDAjpvMA0GCSqGSIb3DQEBCwUAMEIxCzAJBgNVBAYTAlVT                                                               
+MRYwFAYDVQQKEw1HZW9UcnVzdCBJbmMuMRswGQYDVQQDExJHZW9UcnVzdCBHbG9i                                                               
+YWwgQ0EwHhcNMTMxMTA1MjEzNjUwWhcNMjIwNTIwMjEzNjUwWjBEMQswCQYDVQQG                                                               
+EwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEdMBsGA1UEAxMUR2VvVHJ1c3Qg                                                               
+U1NMIENBIC0gRzMwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDjvn4K                                                               
+hqPPa209K6GXrUkkTdd3uTR5CKWeop7eRxKSPX7qGYax6E89X/fQp3eaWx8KA7UZ                                                               
+U9ulIZRpY51qTJEMEEe+EfpshiW3qwRoQjgJZfAU2hme+msLq2LvjafvY3AjqK+B                                                               
+89FuiGdT7BKkKXWKp/JXPaKDmJfyCn3U50NuMHhiIllZuHEnRaoPZsZVP/oyFysx                                                               
+j0ag+mkUfJ2fWuLrM04QprPtd2PYw5703d95mnrU7t7dmszDt6ldzBE6B7tvl6QB                                                               
+I0eVH6N3+liSxsfQvc+TGEK3fveeZerVO8rtrMVwof7UEJrwEgRErBpbeFBFV0xv                                                               
+vYDLgVwts7x2oR5lAgMBAAGjggFKMIIBRjAfBgNVHSMEGDAWgBTAephojYn7qwVk                                                               
+DBF9qn1luMrMTjAdBgNVHQ4EFgQU0m/3lvSFP3I8MH0j2oV4m6N8WnwwEgYDVR0T                                                               
+AQH/BAgwBgEB/wIBADAOBgNVHQ8BAf8EBAMCAQYwNgYDVR0fBC8wLTAroCmgJ4Yl                                                               
+aHR0cDovL2cxLnN5bWNiLmNvbS9jcmxzL2d0Z2xvYmFsLmNybDAvBggrBgEFBQcB                                                               
+AQQjMCEwHwYIKwYBBQUHMAGGE2h0dHA6Ly9nMi5zeW1jYi5jb20wTAYDVR0gBEUw                                                               
+QzBBBgpghkgBhvhFAQc2MDMwMQYIKwYBBQUHAgEWJWh0dHA6Ly93d3cuZ2VvdHJ1                                                               
+c3QuY29tL3Jlc291cmNlcy9jcHMwKQYDVR0RBCIwIKQeMBwxGjAYBgNVBAMTEVN5                                                               
+bWFudGVjUEtJLTEtNTM5MA0GCSqGSIb3DQEBCwUAA4IBAQCg1Pcs+3QLf2TxzUNq                                                               
+n2JTHAJ8mJCi7k9o1CAacxI+d7NQ63K87oi+fxfqd4+DYZVPhKHLMk9sIb7SaZZ9                                                               
+Y73cK6gf0BOEcP72NZWJ+aZ3sEbIu7cT9clgadZM/tKO79NgwYCA4ef7i28heUrg                                                               
+3Kkbwbf7w0lZXLV3B0TUl/xJAIlvBk4BcBmsLxHA4uYPL4ZLjXvDuacu9PGsFj45                                                               
+SVGeF0tPEDpbpaiSb/361gsDTUdWVxnzy2v189bPsPX1oxHSIFMTNDcFLENaY9+N                                                               
+QNaFHlHpURceA1bJ8TCt55sRornQMYGbaLHZ6PPmlH7HrhMvh+3QJbBo+d4IWvMp                                                               
+zNSS                                                                                                                           
+-----END CERTIFICATE-----
