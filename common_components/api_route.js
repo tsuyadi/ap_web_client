@@ -1,18 +1,5 @@
-
-// const base_api = "http://api-apdev.tokiomarine-life.co.id/";
-//  const base_api = 'http://api-apuat.tokiomarine-life.co.id/';
-// const base_api = 'http://api-'+window.location.hostname+'/';
 const base_api = 'https://api-apuat2.tokiomarine-life.co.id/';
-// const base_api = 'http://192.168.1.99/';
-// const base_api = 'https://api-agent.tokiomarine-life.co.id/';
-
-// const host_uri = 'http://localhost:88/apuat/';
-//const host_uri = 'http://localhost/ap_web_client/';
-// const host_uri = 'http://localhost:88/apdev/';
-// const host_uri = 'http://apuat.tokiomarine-life.co.id/';
-// const host_uri = 'http://apdev.tokiomarine-life.co.id/';
-const host_uri = 'https://apuat2.tokiomarine-life.co.id/';
-// const host_uri = 'https://agent.tokiomarine-life.co.id/';
+const host_uri = 'https://apuat2.azurewebsites.net/';
 
 const api_route = {
     // Login and Token Related
@@ -185,7 +172,7 @@ const api_route = {
     report_freepa_download : base_api + 'ssrs/report_freepa_download/',
     report_ams_utilization : base_api + 'ssrs/report_ams_utilization/',
     report_ams_utilization_download : base_api + 'ssrs/report_ams_utilization_download/',
-    
+
     //my personal commission new
     new_weekly_bonus : base_api + 'newbonus/new_weekly_bonus/',
     rolling_weekly_bonus : base_api + 'newbonus/rolling_weekly_bonus/',
